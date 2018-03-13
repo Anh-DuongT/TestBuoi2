@@ -1,0 +1,4 @@
+D:\ThucHanhBuoi2\ThucHanhBuoi2\bin\Debug\ThucHanhBuoi2.exe
+D:\ThucHanhBuoi2\ThucHanhBuoi2\bin\Debug\ThucHanhBuoi2.pdb
+D:\ThucHanhBuoi2\ThucHanhBuoi2\obj\x86\Debug\ThucHanhBuoi2.exe
+D:\ThucHanhBuoi2\ThucHanhBuoi2\obj\x86\Debug\ThucHanhBuoi2.pdb
